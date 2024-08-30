@@ -12,3 +12,10 @@
   </details>
 </div>
 <br>
+
+## 💼 Career
+I'm partially working as an ***AI researcher***.
+
+## 🔍 Currently Learning:
+- Generative AI/LLM
+- Android App Development
