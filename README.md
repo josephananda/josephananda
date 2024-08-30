@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephananda&show_icons=true&theme=dracula" alt="Gading Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephananda&show_icons=true&theme=github_dark" alt="Gading Github Stats">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=josephananda&color=blue&style=flat" alt="Joseph's Github Profile Views" />
   <br><br>
