@@ -13,6 +13,8 @@
 </div>
 <br>
 
+👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring several Generative AI approach such as RAG.
+
 ## 💼 Career
 I'm partially working as an ***AI researcher***.
 
