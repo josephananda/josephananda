@@ -21,3 +21,5 @@ I'm partially working as an ***AI researcher***.
 ## 🔍 Currently Learning
 - Generative AI/LLM (RAG)
 - Android App Development
+
+© 2024 - Joseph Ananda
