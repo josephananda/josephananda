@@ -19,5 +19,5 @@
 I'm partially working as an ***AI researcher***.
 
 ## 🔍 Currently Learning:
-- Generative AI/LLM
+- Generative AI/LLM (RAG)
 - Android App Development
