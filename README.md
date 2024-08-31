@@ -18,6 +18,6 @@
 ## 💼 Career
 I'm partially working as an ***AI researcher***.
 
-## 🔍 Currently Learning:
+## 🔍 Currently Learning
 - Generative AI/LLM (RAG)
 - Android App Development
