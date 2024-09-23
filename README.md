@@ -13,10 +13,19 @@
 </div>
 <br>
 
-👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring several Generative AI approach such as RAG.
+👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring Data Science techniquesthrough project building and trying Generative AI approach such as RAG.
 
 ## 💼 Career
-I'm partially working as an ***AI researcher***.
+I'm partially working as an ***student AI research scientist*** at Affective Computing Research Interest Group (ACRIG) laboratory, conducting experiments using deep learning techniques and writing academic research paper.
+
+Visit my [LinkedIn](https://www.linkedin.com/in/josephananda/) for more details on what I'm working on :)
+
+## 🗂️ Projects
+- AffecientNet (Affective EfficientNet) | Master's Thesis Project | [Streamlit Demo](https://engagementclassificationdemo.streamlit.app)
+- SAE-CNN (Scaled dot-product Attention Engagement CNN) | Part of Master's Thesis Project
+- Personali-T | Bachelor's Thesis Project | [Streamlit Demo](https://mbti-ndemo.streamlit.app)
+- Unitics | [Streamlit Demo](https://mbti-demo.streamlit.app) | [Github](https://github.com/josephananda/UniticsML)
+- HERA | [Github](https://github.com/josephananda/HERA)
 
 ## 🔍 Currently Learning
 - Generative AI/LLM (RAG)
