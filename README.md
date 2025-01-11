@@ -18,7 +18,7 @@
 ## 💼 Career
 I'm partially working as an ***student AI research scientist*** at Affective Computing Research Interest Group (ACRIG) laboratory, conducting experiments using deep learning techniques and writing academic research paper.
 
-Visit my [LinkedIn](https://www.linkedin.com/in/josephananda/) for more details on what I'm working on :)
+Visit my [portfolio](https://www.canva.com/design/DAGU8aFml8o/m155usj1HLC6364t8PBJug/view?utm_content=DAGU8aFml8o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he26dbfb107) and [LinkedIn](https://www.linkedin.com/in/josephananda/) for more details on what I'm working on :)
 
 ## 🗂️ Projects
 - AffecientNet (Affective EfficientNet) | Master's Thesis Project | [Streamlit Demo](https://engagementclassificationdemo.streamlit.app)
