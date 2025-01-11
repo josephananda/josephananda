@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=josephananda&color=blue&style=flat" alt="Joseph's Github Profile Views" />
   <br><br>
   <details>
-    <summary>My Detail Stats (click me to toggle 👀)</summary>
+    <summary>My Detailed Stats (click me to toggle 👀)</summary>
     <br>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephananda&theme=github_dark&layout=donut-vertical&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josephananda&theme=blue-green" alt="Stat Streak" /></p>
+    <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josephananda&theme=blue-green" alt="Stat Streak" /></p>-->
     <p><img src="https://github-profile-trophy.vercel.app/?username=josephananda&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   </details>
 </div>
 <br>
 
-👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring Data Science techniques through project building and trying Generative AI approach such as RAG.
+👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring Data Science techniques through project building and trying Generative AI approach such as RAG. Besides, I also experimenting to surpass the state-of-the-art methods on the research I've been working on, such as Personali-T and AffecientNet.
 
 ## 💼 Career
 I'm partially working as an ***student AI research scientist*** at Affective Computing Research Interest Group (ACRIG) laboratory, conducting experiments using deep learning techniques and writing academic research paper.
