@@ -13,7 +13,7 @@
 </div>
 <br>
 
-👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring Data Science techniquesthrough project building and trying Generative AI approach such as RAG.
+👋 Hello. My name is Joseph. I'm a student AI researcher who specialized in Deep Learning Classification model (text and image), but also have some ability to explore about Simpler Machine Learning model and Data Visualization. Besides, I have some ability to code in Kotlin for Android App Development. I'm very passionate about technologies related to Data field and I'm currently exploring Data Science techniques through project building and trying Generative AI approach such as RAG.
 
 ## 💼 Career
 I'm partially working as an ***student AI research scientist*** at Affective Computing Research Interest Group (ACRIG) laboratory, conducting experiments using deep learning techniques and writing academic research paper.
