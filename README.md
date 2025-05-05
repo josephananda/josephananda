@@ -24,7 +24,7 @@ Visit my [portfolio](https://www.canva.com/design/DAGU8aFml8o/m155usj1HLC6364t8P
 - AffecientNet (Affective EfficientNet) | Master's Thesis Project | [Streamlit Demo](https://engagementclassificationdemo.streamlit.app)
 - SAE-CNN (Scaled dot-product Attention Engagement CNN) | Part of Master's Thesis Project
 - Personali-T | Bachelor's Thesis Project | [Streamlit Demo](https://mbti-ndemo.streamlit.app)
-- Unitics | [Streamlit Demo](https://mbti-demo.streamlit.app) | [Github](https://github.com/josephananda/UniticsML)
+- Unitics | [Streamlit Demo](https://unitics-demo.streamlit.app) | [Github](https://github.com/josephananda/UniticsML)
 - HERA | [Github](https://github.com/josephananda/HERA)
 
 ## 🔍 Currently Learning
