@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephananda&show_icons=true&theme=github_dark&hide=contribs,reviews,discussions_answered,prs_merged,prs_merged_percentage&show=discussions_started,prs" alt="Joseph's Github Stats">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=josephananda&show_icons=true&theme=github_dark&hide=contribs,reviews,discussions_answered,prs_merged,prs_merged_percentage&show=discussions_started,prs" alt="Joseph's Github Stats">-->
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=josephananda&color=blue&style=flat" alt="Joseph's Github Profile Views" />
   <br><br>
@@ -23,12 +23,8 @@ Visit my [portfolio](https://www.canva.com/design/DAGU8aFml8o/m155usj1HLC6364t8P
 ## 🗂️ Projects
 - AffecientNet (Affective EfficientNet) | Master's Thesis Project | [Streamlit Demo](https://engagementclassificationdemo.streamlit.app)
 - SAE-CNN (Scaled dot-product Attention Engagement CNN) | Part of Master's Thesis Project
-- Personali-T | Bachelor's Thesis Project | [Streamlit Demo](https://mbti-ndemo.streamlit.app)
+- Personali-T | Bachelor's Thesis Project | [Streamlit Demo](https://mbti-demo.streamlit.app)
 - Unitics | [Streamlit Demo](https://unitics-demo.streamlit.app) | [Github](https://github.com/josephananda/UniticsML)
 - HERA | [Github](https://github.com/josephananda/HERA)
 
-## 🔍 Currently Learning
-- Generative AI/LLM (RAG)
-- Android App Development
-
-© 2024 - Joseph Ananda
+© 2025 - Joseph Ananda
